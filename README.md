@@ -1,6 +1,11 @@
 Jekyll Plugin for Using Pandoc-Ruby
 ===================================
 
+[Edit](https://github.com/dsanson/jekyll-pandoc-plugin/pull/11) to make it work with Jekyll 2.*
+
+Original readme by dsanson:
+---------------------------
+
 This is a plugin for using [pandoc][] as your markdown converter
 in [jekyll][].
 
